@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\app\\anomaly_helper",
+    "\\app\\anomaly_helper\\temp_audios",
+    "\\app\\anomaly_helper\\vibration_autoencoder_model",
+    "\\app\\anomaly_helper\\vibration_data",
+    "\\app\\routers\\__pycache__",
+    "\\jwt",
+    "\\jwt\\bin"
+  ],
+  "PreviewInSolutionExplorer": false
+}

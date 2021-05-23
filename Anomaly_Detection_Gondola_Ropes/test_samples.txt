@@ -1,0 +1,29 @@
+Sample_1
+
+{
+  "item": {
+    "approx_mass": 0.235,
+    "tension_strngth1":  37.40,
+    "tension_strngth2":  41.40,
+    "load1":  3810.0,
+    "load2":  4220,
+    "abrasion_resistance":"Good resistant to abrasion and crushing",
+    "fatigue_resistance": "Less fatigue resistance"
+  }
+}
+
+
+Sample_2
+
+
+        {
+  "item": {
+    "approx_mass": 0.448690,
+    "tension_strngth1":  450,
+    "tension_strngth2":  550,
+    "load1":  4500,
+    "load2":  6500,
+    "abrasion_resistance":"Good resistant to abrasion and crushing",
+    "fatigue_resistance": "Less fatigue resistance"
+  }
+}
